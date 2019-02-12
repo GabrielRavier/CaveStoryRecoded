@@ -1,7 +1,7 @@
 # Cave Story Recoded
 A recode of Cave Story.
 
-Attempts to have complete 1:1 compatibility to the original game (except for binary compat, that's pretty much impossible).
+Attempts to have complete 1:1 compatibility to the original game (except for binary compat, that's pretty much impossible). This is no longer updated. See https://github.com/GabrielRavier/Cave-Story-Engine-2/ for further progress on this.
 
 ## Build Instructions For Windows 
 
